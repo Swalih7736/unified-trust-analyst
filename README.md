@@ -1,6 +1,6 @@
 # Project Name
 
-TRUST ANALYSTTRUST ANALYST
+TRUST ANALYST
 
 ## Problem Statement
 The AI for Cybersecurity & Digital Trust track focuses on building a "verification layer" for the modern internet, specifically targeting the dual threats of synthetic media and adversarial social engineering. By leveraging Gemini's multimodal reasoning, your web app functions as a digital forensic lab that simultaneously inspects visual artifacts—like pixel warping and unnatural blinking in deepfakes—and linguistic red flags, such as the high-pressure urgency and suspicious URL structures found in "Digital Arrest" or KYC scam messages. This approach moves beyond simple detection by providing Explainable AI (XAI) results, which break down the "why" behind a risk score to educate users, effectively bridging the gap between complex technical security and the everyday person’s need for a trusted, verifiable digital environment.
@@ -60,10 +60,10 @@ Upload your demo video to Google Drive and paste the shareable link here(max 3 m
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/Swalih7736/unified-trust-analyst
 
 # Go to project folder
-cd project-name
+cd unified-trust-analyst
 
 # Install dependencies
 npm install
